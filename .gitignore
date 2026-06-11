@@ -1,0 +1,8 @@
+# 1. Ignore absolutely everything
+*
+
+# 2. But do not ignore your .c files
+!*.c
+
+# 3. Keep the .gitignore file itself tracked
+!.gitignore
